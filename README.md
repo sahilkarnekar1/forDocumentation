@@ -157,6 +157,8 @@ A `package.json` file is a fundamental component in Node.js projects. It serves 
 
 ## Dependencies
 
+## License
+      Information about the project's license.
 <table>
   <thead>
     <tr>
@@ -165,9 +167,9 @@ A `package.json` file is a fundamental component in Node.js projects. It serves 
     </tr>
   </thead>
   <tbody>
-   <tr>
-    <tr><td> ## License
-Information about the project's license. </td><td>^5.5.2</td></tr>
+
+       
+
     <tr><td>@emotion/react</td><td>^11.13.3</td></tr>
     <tr><td>@emotion/styled</td><td>^11.13.3</td></tr>
     <tr><td>@fortawesome/fontawesome-svg-core</td><td>^11.13.0</td></tr>
